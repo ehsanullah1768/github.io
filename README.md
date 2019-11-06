@@ -2,7 +2,7 @@
 
 A simple php site with a catalog of items and a form that sends an email.
 
- THIS IS A WESITE WHICH I DEVALOPED FOR MY JOB CARRIER.
+ THIS IS A WESITE WHICH I DEVALOPED FOR MY JOB CARRER.
 
 ## Details
 
